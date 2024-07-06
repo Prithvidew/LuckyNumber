@@ -27,6 +27,9 @@ Given step-by-step instructions on how to use its features effectively.
 Example:
 
 1.Launch the Lucky Number app from your Android device.
+
 2.Choose your preferred parameters (range and quantity of numbers).
+
 3.Tap on "Generate" to get your lucky numbers.
+
 4.Access saved numbers from the favorites tab.
