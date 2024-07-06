@@ -16,8 +16,11 @@ Installation
 Provide instructions on how to install and run application.
 
 1.Download the APK file from the releases page. 
+
 2.Enable installation from unknown sources in your Android device's settings.
+
 3.Open the APK file to begin installation.
+
 4.Follow the on-screen instructions to complete the installation process.
 
 Usage
